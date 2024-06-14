@@ -1,2 +1,2 @@
 # APS1052Y
-AI in Finance
+University of Toronto 2022 Summer
